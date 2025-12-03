@@ -1,0 +1,29 @@
+# Ficheiros de saída e auxiliares
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.dvi
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.idx
+*.ind
+*.ilg
+*.synctex.gz
+*.vrb
+*.lot
+*.lof
+*.bcf
+*.xml
+*.run.xml
+*.spl
+*.thm
+
+# Ficheiros do editor/backup
+*~
+\#*\#
+*.bak

@@ -1,14 +1,14 @@
 \babel@toc {portuguese}{}\relax 
-\contentsline {section}{\numberline {1}Introdução}{1}{section.1}%
+\contentsline {section}{\numberline {1}Introdu^^c3^^a7^^c3^^a3o}{1}{section.1}%
 \contentsline {section}{\numberline {2}Interfaces}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Interface Principal }{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Interface de Perfil }{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Interface Adicionar/Comprar (\textit {Add or Purchase Interface})}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Interface de Opções de Compra}{6}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Interface de Informação do Cartão}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.4}Interface de Op^^c3^^a7^^c3^^b5es de Compra}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Interface de Informa^^c3^^a7^^c3^^a3o do Cart^^c3^^a3o}{7}{subsection.2.5}%
 \contentsline {section}{\numberline {3}Carteira Movel}{9}{section.3}%
 \contentsline {section}{\numberline {4}Widget no ecra principal}{10}{section.4}%
 \contentsline {section}{\numberline {5}Notificacao}{11}{section.5}%
-\contentsline {section}{\numberline {6}Avaliações}{12}{section.6}%
-\contentsline {section}{\numberline {7}Protótipo de Alta Fidelidade}{14}{section.7}%
-\contentsline {section}{\numberline {8}Conclusões}{17}{section.8}%
+\contentsline {section}{\numberline {6}Avalia^^c3^^a7^^c3^^b5es}{12}{section.6}%
+\contentsline {section}{\numberline {7}Prot^^c3^^b3tipo de Alta Fidelidade}{14}{section.7}%
+\contentsline {section}{\numberline {8}Conclus^^c3^^b5es}{17}{section.8}%
