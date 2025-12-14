@@ -510,12 +510,16 @@ INPUT .\Introducao.tex
 INPUT .\Introducao.tex
 INPUT Introducao.tex
 INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1095.tfm
+INPUT .\Metodologia_Avaliacao.tex
+INPUT .\Metodologia_Avaliacao.tex
+INPUT Metodologia_Avaliacao.tex
 INPUT .\Interfaces.tex
 INPUT .\Interfaces.tex
 INPUT .\Interfaces.tex
 INPUT .\Interfaces.tex
 INPUT Interfaces.tex
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT .\assets\Imagens\Passes.png
 INPUT .\assets\Imagens\Passes.png
 INPUT .\assets\Imagens\Passes.png
@@ -643,6 +647,8 @@ INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecr
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
+INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
+INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk

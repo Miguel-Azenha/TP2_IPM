@@ -1,13 +1,14 @@
 # Fdb version 4
-["biber main"] 1762638679.55377 "main.bcf" "main.bbl" "main" 1764535555.46057 0
-  "main.bcf" 1764535554 106453 2b35468d39783abc096ed2f0c61037c8 "pdflatex"
+["biber main"] 1765649270.4773 "main.bcf" "main.bbl" "main" 1765741221.69714 0
+  "main.bcf" 1765741221 106453 2b35468d39783abc096ed2f0c61037c8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1764535544.08594 "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" "main.pdf" "main" 1764535555.46181 0
+["pdflatex"] 1765741213.81669 "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" "main.pdf" "main" 1765741221.69819 0
   "Avaliacoes.tex" 1762643258 2913 74969a2f96d1274e599b63f121cd745a ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764080099 81068 299f700eb05b1217173e62b88b513bd0 ""
+  "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk" 1764613536 38336 92e0a78efa8b17484f8ef7144321bdc1 ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1200.pk" 1762638666 42728 de9961642d194f8f99bca4c58a6c10fc ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1760877913 28976 bff788e7d0e4cd6c3c287b892f2f5edb ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1762638667 31952 2ea165860a039cd1193ccd84abf00a9b ""
@@ -21,6 +22,7 @@
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1762638669 12668 8e538abacdd57c2a3040720d3cfbe5db ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1762638676 14064 a7deaabe95bbe613a904a34fa7549d1a ""
   "C:/Users/migue/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760877750 24225047 ec0674f1817a02eaf17c0739d0d3001e ""
+  "C:/Users/migue/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbi1095.tfm" 993061908 2900 21d5bbfc5b6ea2bdb2c1d1efa4e47b72 ""
   "C:/Users/migue/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbi1200.tfm" 993061910 2892 f5de7a62f7c1551b663588ecf7265280 ""
   "C:/Users/migue/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1095.tfm" 993061956 3228 aacd2ac2d814480e4422ad7e830fd2d4 ""
   "C:/Users/migue/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
@@ -276,7 +278,8 @@
   "C:/Users/migue/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Conclusao.tex" 1762785092 1549 d61ec8f2d113412379f19acee24e9079 ""
   "Interfaces.tex" 1762638480 13305 cf4845f40d245dd39a9d193a08bcd892 ""
-  "Introducao.tex" 1762638750 1636 54fb553fe25918fe8d80038c0b1f6099 ""
+  "Introducao.tex" 1765738256 4339 cb1f17a1a661c9e0bf458b1a151f4f6b ""
+  "Metodologia_Avaliacao.tex" 1765741213 5447 957cb7b31541b43694fa9d9a9d3647fe ""
   "Prototipo_Hi_fi.tex" 1762785048 3812 4f93e51dfc3c07192f331c12740fb5d1 ""
   "assets/Imagens/AdicionarComprar.png" 1762638480 353416 2e0edd2cb5b5b140c931467ad41f890c ""
   "assets/Imagens/CompraBilheteUnico.png" 1762638480 481435 c02ed863cb6f561ea5501433c0a933e7 ""
@@ -293,14 +296,14 @@
   "assets/Imagens/TiposBilhetes.png" 1762638480 426239 60cf38ad595d9ce45644ee1580e4058d ""
   "assets/Imagens/Wallet.png" 1762638480 333751 b42956fcdbaec5ed5a1bfdd7cf62452b ""
   "assets/Imagens/bottom_navbar.png" 1762782776 37601 b7527c609f1dffeb66ffec2d4ca85085 ""
-  "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" 1762784626 3765 6f0abbbef613b09f5260941d1a89d16f ""
-  "main.aux" 1764535554 4425 04eb5ecd671d6ee0b4bccc28fabce66b "pdflatex"
-  "main.bbl" 1762638740 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.lof" 1764535554 1304 80910205f7c98000bf70716dc95dd4d8 "pdflatex"
-  "main.out" 1764535554 2117 bf5756eba5cc1b110d93e3edfe54f0bd "pdflatex"
-  "main.run.xml" 1764535554 2227 a8038712b2014f7cf2b7219a240bdb8a "pdflatex"
-  "main.tex" 1762784626 3765 6f0abbbef613b09f5260941d1a89d16f ""
-  "main.toc" 1764535554 1111 03c4298660dd52d487bb16920f455c0f "pdflatex"
+  "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" 1765737983 3978 3964125a07fbcabc1d1bc02d4cce1c31 ""
+  "main.aux" 1765741221 5840 e1ac78814e50256bc80543b2714309f1 "pdflatex"
+  "main.bbl" 1765649338 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.lof" 1765741221 1306 00d4bf30de8ca451f83cd005a5ac628b "pdflatex"
+  "main.out" 1765741221 3877 2d17187ba73a7842f1d8533f1c88834b "pdflatex"
+  "main.run.xml" 1765741221 2227 a8038712b2014f7cf2b7219a240bdb8a "pdflatex"
+  "main.tex" 1765737983 3978 3964125a07fbcabc1d1bc02d4cce1c31 ""
+  "main.toc" 1765741221 2004 2e0341c00b7b8289bee6c6d8da6296a9 "pdflatex"
   "relatorio.cls" 1762638480 5318 995a66eaa9c26d6c73e763b7c8206632 ""
   (generated)
   "main.aux"

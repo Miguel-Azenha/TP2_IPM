@@ -1,0 +1,63 @@
+
+A metodologia de avaliação foi delineada para conduzir um estudo experimental e formal, conforme as diretrizes do enunciado do trabalho prático. O principal objetivo foi medir e comparar o desempenho dos utilizadores e a satisfação subjetiva ao executar tarefas essenciais no protótipo de alta fidelidade desenvolvido em comparação com um sistema \textit{baseline} já existente.
+
+\subsection{Participantes e Ética}
+
+O estudo incluiu um total de 16 participantes (N=16), satisfazendo o requisito de ter entre 10 e 16 indivíduos. O perfil dos participantes foi selecionado para ser representativo dos utilizadores-alvo do sistema, consistindo em utilizadores frequentes de transportes públicos em Lisboa que possuem o Passe Navegante.
+
+Todos os participantes foram informados sobre os objetivos e o procedimento da avaliação e confirmaram a sua participação de forma voluntária, assinando um formulário de consentimento informado. O tratamento dos dados seguiu princípios éticos, garantindo  a confidencialidade das respostas. O perfil detalhado de cada participante (idade, frequência de uso de transportes, etc.) será reportado no capítulo de Resultados.
+
+\subsection{Desenho Experimental}
+
+Foi adotado um \textit{Desenho Experimental Intra-Sujeitos} (\textit{Within-Subjects}). Neste desenho, cada participante foi exposto a ambas as condições de teste (Protótipo vs. Controlo), o que permitiu que o próprio indivíduo atuasse como seu controlo. Este desenho é inerentemente mais eficiente do ponto de vista estatístico, uma vez que controla as diferenças de variabilidade interindividual.
+
+Para mitigar o efeito de aprendizagem, que ocorre quando a exposição a uma condição afeta o desempenho na condição seguinte, o estudo utilizou a técnica de balanceamento através da rotação das condições. Metade dos participantes iniciou as tarefas com o Protótipo e depois passou para o sistema \textit{baseline}, enquanto a outra metade seguiu a ordem inversa.
+
+\subsection{Variável Independente}
+
+A \textit{Variável Independente} (o fator manipulado) foi o Sistema em Avaliação, com dois níveis:
+
+\begin{enumerate}
+    \item \textbf{Condição A (Protótipo)}: O protótipo de alta fidelidade da aplicação Navegante (T2).
+    \item \textbf{Condição B (Controlo/Baseline)}: Um sistema semelhante que permite a realização da mesma tarefa de gestão/validação, simulando o processo atual (ex: a aplicação existente Navegante ou o uso do cartão físico).
+\end{enumerate}
+
+\subsection{Variáveis Dependentes}
+
+As \textit{Variáveis Dependentes} (as métricas de avaliação) foram selecionadas para medir a eficácia, a eficiência e a satisfação do utilizador, e incluíram obrigatoriamente dados ordinais (escalas de Likert) e dados intervalares contínuos:
+
+\begin{enumerate}
+    \item \textbf{Métricas Contínuas}
+    \begin{itemize}
+        \item \textbf{Tempo de Execução (Task Completion Time)}: Tempo em segundos gasto para completar cada tarefa. Estas medições foram efetuadas manualmente pelo avaliador, cronometrando o tempo desde o início da tarefa até à sua conclusão.
+        \item \textbf{Taxa de Erros}: Contagem do número de erros cometidos pelos participantes durante a execução de cada tarefa. O número de erros é calculado pelo número de cliques feitos pelo participante a subtrair pelo número mínimo de cliques para completar a tarefa.
+    \end{itemize}
+
+    \item \textbf{Métrica Ordinal}
+    \begin{itemize}
+        \item \textbf{Satisfação Subjetiva (Usabilidade e Experiência)}: Avaliada através da System Usability Scale (SUS). A SUS é um questionário padrão composto por 10 itens que utiliza uma escala de satisfação de 5 pontos (Likert).
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Tarefas e Procedimento}
+
+
+As tarefas foram selecionadas para cobrir os pontos de fricção identificados, focando-se na aquisição e validação de títulos de transporte:
+
+\begin{itemize}
+    \item \textbf{Tarefa 1: Carregar o Passe}: Simular a aquisição ou recarregamento de um título de transporte mensal.
+    \item \textbf{Tarefa 2: Validar o Passe}: Simular o processo de validação de uma viagem.
+    \item \textbf{Tarefa 3: Ver Perfil/Informação do Passe}: Simular a consulta de informações pessoais e do estado do cartão.
+\end{itemize}
+
+\subsubsection{Procedimento}
+
+A avaliação foi realizada em sessões individuais, seguindo os seguintes passos:
+
+\begin{enumerate}
+    \item \textbf{Introdução}: O participante assinou o consentimento informado, preencheu um breve questionário de perfil e recebeu instruções gerais sobre o teste, incluindo a explicação do método \textit{pensar alto} (verbalização de pensamentos e sentimentos durante a interação).
+    \item \textbf{Execução das Tarefas}: O participante executou as três tarefas sequencialmente.
+    \item \textbf{Recolha de Dados Contínuos}: O avaliador registou manualmente o Tempo de Execução e a Taxa de Erros para cada tarefa e condição.
+    \item \textbf{Recolha de Dados Ordinais}: Após a conclusão de todas as tarefas em cada sistema, o participante preencheu o questionário SUS relativo à sua experiência com essa condição.
+    \item \textbf{Conclusão}: Os participantes foram sumariamente informados sobre os objetivos específicos do estudo (\textit{debriefing}).
+\end{enumerate}
