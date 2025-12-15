@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1765792129.18271 "main.bcf" "main.bbl" "main" 1765797147.2815 0
-  "main.bcf" 1765797146 106453 2b35468d39783abc096ed2f0c61037c8 "pdflatex"
+["biber main"] 1765805080.96069 "main.bcf" "main.bbl" "main" 1765805092.24634 0
+  "main.bcf" 1765805091 106453 2b35468d39783abc096ed2f0c61037c8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1765797139.84675 "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" "main.pdf" "main" 1765797147.28285 0
+["pdflatex"] 1765805083.85714 "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" "main.pdf" "main" 1765805092.2473 0
   "Avaliacoes.tex" 1762643258 2913 74969a2f96d1274e599b63f121cd745a ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764080099 81068 299f700eb05b1217173e62b88b513bd0 ""
   "C:/Users/migue/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk" 1764613536 38336 92e0a78efa8b17484f8ef7144321bdc1 ""
@@ -279,8 +279,8 @@
   "Conclusao.tex" 1762785092 1549 d61ec8f2d113412379f19acee24e9079 ""
   "Interfaces.tex" 1762638480 13305 cf4845f40d245dd39a9d193a08bcd892 ""
   "Introducao.tex" 1765738256 4339 cb1f17a1a661c9e0bf458b1a151f4f6b ""
-  "Metodologia_Avaliacao.tex" 1765793367 7220 e149492786465d7a13313f6303fa61a6 ""
-  "Perfis.tex" 1765797139 1940 d1f846a464f20561ac7e1051d6db4928 ""
+  "Metodologia_Avaliacao.tex" 1765797517 7220 e149492786465d7a13313f6303fa61a6 ""
+  "Perfis.tex" 1765805058 1940 d1f846a464f20561ac7e1051d6db4928 ""
   "Prototipo_Hi_fi.tex" 1762785048 3812 4f93e51dfc3c07192f331c12740fb5d1 ""
   "assets/Imagens/AdicionarComprar.png" 1762638480 353416 2e0edd2cb5b5b140c931467ad41f890c ""
   "assets/Imagens/CompraBilheteUnico.png" 1762638480 481435 c02ed863cb6f561ea5501433c0a933e7 ""
@@ -297,16 +297,16 @@
   "assets/Imagens/TiposBilhetes.png" 1762638480 426239 60cf38ad595d9ce45644ee1580e4058d ""
   "assets/Imagens/Wallet.png" 1762638480 333751 b42956fcdbaec5ed5a1bfdd7cf62452b ""
   "assets/Imagens/bottom_navbar.png" 1762782776 37601 b7527c609f1dffeb66ffec2d4ca85085 ""
-  "assets/Imagens/idades_piechart.png" 1765797092 15624 0479d5ad4dd9f0aac5329bf3b643e20c ""
-  "assets/Imagens/transportes_piechart.png" 1765796796 23343 d2c204e89d7484b93230d082d23e7bff ""
-  "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" 1765793868 4362 ddbcff1c5633d621757867d9d8b0bc5e ""
-  "main.aux" 1765797146 7427 92f3ddd8207c51af1416d442a02d32aa "pdflatex"
-  "main.bbl" 1765792136 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.lof" 1765797146 1503 afddf1f843c3460a3c14380faee6263a "pdflatex"
-  "main.out" 1765797146 5066 374e3386595a75984acf4b6cfce2569a "pdflatex"
-  "main.run.xml" 1765797146 2227 a8038712b2014f7cf2b7219a240bdb8a "pdflatex"
-  "main.tex" 1765793868 4362 ddbcff1c5633d621757867d9d8b0bc5e ""
-  "main.toc" 1765797146 2573 831185b4724a6f6bdb43516e9b2f5d56 "pdflatex"
+  "assets/Imagens/idades_piechart.png" 1765797517 15624 0479d5ad4dd9f0aac5329bf3b643e20c ""
+  "assets/Imagens/transportes_piechart.png" 1765797517 23343 d2c204e89d7484b93230d082d23e7bff ""
+  "c:/Users/migue/OneDrive/Ambiente de Trabalho/ISEL/licenciatura/2526/semestre1/IPM/TP2_IPM/TP2_IPM/main.tex" 1765797517 4362 ddbcff1c5633d621757867d9d8b0bc5e ""
+  "main.aux" 1765805091 7427 92f3ddd8207c51af1416d442a02d32aa "pdflatex"
+  "main.bbl" 1765805083 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.lof" 1765805091 1503 afddf1f843c3460a3c14380faee6263a "pdflatex"
+  "main.out" 1765805091 5066 374e3386595a75984acf4b6cfce2569a "pdflatex"
+  "main.run.xml" 1765805091 2227 a8038712b2014f7cf2b7219a240bdb8a "pdflatex"
+  "main.tex" 1765797517 4362 ddbcff1c5633d621757867d9d8b0bc5e ""
+  "main.toc" 1765805091 2573 831185b4724a6f6bdb43516e9b2f5d56 "pdflatex"
   "relatorio.cls" 1762638480 5318 995a66eaa9c26d6c73e763b7c8206632 ""
   (generated)
   "main.aux"
