@@ -27,3 +27,20 @@
 *~
 \#*\#
 *.bak
+
+# Ficheiros de Sistema (Mac e Windows)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ficheiros de configuração do editor (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Dependências (Node, Python, etc. - ajusta conforme a linguagem)
+node_modules/
+venv/
+__pycache__/
+dist/
+build/
