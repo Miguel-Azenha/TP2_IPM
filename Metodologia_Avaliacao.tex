@@ -3,7 +3,7 @@ A metodologia de avaliação foi delineada para conduzir um estudo experimental 
 
 \subsection{Participantes e Ética}
 
-O estudo incluiu um total de 16 participantes (N=16), satisfazendo o requisito de ter entre 10 e 16 indivíduos. O perfil dos participantes foi selecionado para ser representativo dos utilizadores-alvo do sistema, consistindo em utilizadores frequentes de transportes públicos em Lisboa que possuem o Passe Navegante.
+O estudo incluiu um total de 10 participantes, satisfazendo o requisito de ter entre 10 e 16 indivíduos. O perfil dos participantes foi selecionado para ser representativo dos utilizadores-alvo do sistema, consistindo em utilizadores frequentes de transportes públicos em Lisboa que possuem o Passe Navegante.
 
 Todos os participantes foram informados sobre os objetivos e o procedimento da avaliação e confirmaram a sua participação de forma voluntária, assinando um formulário de consentimento informado. O tratamento dos dados seguiu princípios éticos, garantindo  a confidencialidade das respostas. O perfil detalhado de cada participante (idade, frequência de uso de transportes, etc.) será reportado no capítulo de Resultados.
 
@@ -35,9 +35,44 @@ As \textit{Variáveis Dependentes} (as métricas de avaliação) foram seleciona
 
     \item \textbf{Métrica Ordinal}
     \begin{itemize}
-        \item \textbf{Satisfação Subjetiva (Usabilidade e Experiência)}: Avaliada através da System Usability Scale (SUS). A SUS é um questionário padrão composto por 10 itens que utiliza uma escala de satisfação de 5 pontos (Likert).
+        \item \textbf{Satisfação Subjetiva }: Avaliada através da System Usability Scale (SUS). 
     \end{itemize}
 \end{enumerate}
+
+
+\subsection{System Usability Scale (SUS)}
+
+O \textit{System Usability Scale} (SUS) é um instrumento amplamente utilizado para a avaliação da usabilidade de uma vasta gama de produtos e interfaces de utilizador . 
+
+O principal valor do SUS consiste em fornecer um único objetivo de referência que representa a perceção subjetiva dos participantes relativamente à usabilidade de um produto ou serviço. É considerado uma ferramenta económica e eficaz, aplicável a uma vasta gama de tecnologias, sendo independente da tecnologia avaliada.
+
+\subsubsection{Estrutura e Escala}
+
+O SUS é um questionário auto-administrado composto por 10 afirmações, classificadas numa escala de Likert de 5 pontos (de 1 a 5).
+
+As afirmações alternam entre formulações positivas e negativas. Esta alternância foi implementada para reduzir o viés de resposta e garantir que os inquiridos leem cada afirmação de forma cuidadosa.
+
+O questionário pode ser dividido em duas subescalas:
+\begin{itemize}
+    \item \textbf{Usable}: composta por 8 itens;
+    \item \textbf{Learnable (Aprendizagem)}: composta pelos itens 4 e 10.
+\end{itemize}
+
+\subsubsection{Cálculo da Pontuação}
+
+A pontuação final do SUS varia entre 0 e 100. O método de cálculo da pontuação é descrito da seguinte forma:
+
+\begin{itemize}
+    \item Para os itens ímpares (1, 3, 5, 7 e 9), a contribuição da pontuação corresponde ao valor selecionado na escala menos 1.
+    \item Para os itens pares (2, 4, 6, 8 e 10), a contribuição corresponde a 5 menos o valor selecionado na escala.
+    \item A contribuição individual de cada item varia entre 0 e 4.
+    \item A soma das contribuições de todos os itens é multiplicada por 2.5, resultando na pontuação final do SUS.
+\end{itemize}
+
+Uma pontuação SUS superior a 68 é geralmente interpretada como estando acima da média em termos de usabilidade.
+
+
+
 
 \subsection{Tarefas e Procedimento}
 
