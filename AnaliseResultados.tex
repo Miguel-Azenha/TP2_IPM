@@ -1,6 +1,6 @@
 \subsection{Análise de Descritiva}
-As perguntas feitas seguiram o seguinte formato: \cite{martins2015european}
 \subsubsection{Satisfação SUS}
+As perguntas feitas seguiram o seguinte formato: \cite{martins2015european}
 \paragraph{Fórmula para o SUS}
 Para cada um dos 10 participantes, calcula-se uma pontuação individual:
 \begin{enumerate}
@@ -198,4 +198,29 @@ Analisando na tabela T para $df = 9$:
     \item Para $p = 0.001$, o $t$ crítico é \textbf{4,297}
 \end{itemize}
 
-Como o valor t é Superior a 4,297, o \textit{p-value} é menor do que 0.001.
+Como o valor t é superior a 4,297, o \textit{p-value} é menor do que 0.001.
+
+\subsubsection{Análise de Eficiência (Tempo)}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\linewidth]{assets/Imagens/tempos-medios.jpeg}
+    \caption{Gráfico de Comparação de Tempos Médios em Cada Tarefa}
+    \label{fig:graf-comparacao-tempos}
+\end{figure}
+
+A figura \ref{fig:graf-comparacao-tempos} mostra uma comparação de tempos médios nas 
+diferentes tarefas na aplicação atual e no protótipo.
+
+A análise dos tempos de execução revelou 2 cenários distintos. Nas tarefas 2 e 3, o
+protótipo reduziu o tempo médio em cerca de 75\%, comprovando a eficácia da nova
+arquitetura de informação.
+
+Contudo, na Tarefa 1, não se registou uma melhoria significativa no tempo médio
+(47,6s na App Atual vs 45,9 no Protótipo). Esta estagnação deve-se a um problema
+identificado na interface do protótipo: o botão principal "Adicionar/Comprar" induziu
+os utilizadores a acreditar que iniciariam o processo de compra imediata, mas encaminhou-Os
+para um ecrã intermédio de leitura de cartão. Este passo extra inesperado quebrou o fluxo
+mental do utilizador, gerando hesitações que anularam os ganhos de eficiência esperados.
+
+\subsubsection{Análise de Eficácia (Erros)}
