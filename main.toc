@@ -15,6 +15,7 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Satisfa^^c3^^a7^^c3^^a3o SUS}{5}{subsubsection.3.1.1}%
 \contentsline {paragraph}{F^^c3^^b3rmula para o SUS}{5}{section*.4}%
 \contentsline {paragraph}{Participante n^^c2^^ba1}{5}{section*.6}%
-\contentsline {section}{\numberline {4}Avalia^^c3^^a7^^c3^^b5es}{7}{section.4}%
-\contentsline {section}{\numberline {5}Prot^^c3^^b3tipo de Alta Fidelidade}{8}{section.5}%
-\contentsline {section}{\numberline {6}Conclus^^c3^^b5es}{11}{section.6}%
+\contentsline {subsubsection}{\numberline {3.1.2}Teste de Hip^^c3^^b3tese}{6}{subsubsection.3.1.2}%
+\contentsline {section}{\numberline {4}Avalia^^c3^^a7^^c3^^b5es}{9}{section.4}%
+\contentsline {section}{\numberline {5}Prot^^c3^^b3tipo de Alta Fidelidade}{10}{section.5}%
+\contentsline {section}{\numberline {6}Conclus^^c3^^b5es}{13}{section.6}%

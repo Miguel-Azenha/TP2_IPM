@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.10.20)  15 DEC 2025 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.10.20)  15 DEC 2025 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1221,13 +1221,6 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (main.aux
 Package babel Info: 'portuguese' activates 'portuges' shorthands.
 (babel)             Reported  on input line 9.
-
-
-LaTeX Warning: Label `tab:pontuacao-app' multiply defined.
-
-
-LaTeX Warning: Label `tab:pontuacao-app@cref' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -1343,7 +1336,7 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
-<assets/Imagens/ISEL-logo.png, id=74, 3420.2982pt x 853.7496pt>
+<assets/Imagens/ISEL-logo.png, id=78, 3420.2982pt x 853.7496pt>
 File: assets/Imagens/ISEL-logo.png Graphic file (type png)
 <use assets/Imagens/ISEL-logo.png>
 Package pdftex.def Info: assets/Imagens/ISEL-logo.png  used on input line 56.
@@ -1393,41 +1386,45 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[5])
+[5]
 
 [6]
 
-[7] (Prototipo_Hi_fi.tex
-<assets/Imagens/bottom_navbar.png, id=185, 492.33937pt x 458.46281pt>
+[7])
+
+[8]
+
+[9] (Prototipo_Hi_fi.tex
+<assets/Imagens/bottom_navbar.png, id=205, 492.33937pt x 458.46281pt>
 File: assets/Imagens/bottom_navbar.png Graphic file (type png)
 <use assets/Imagens/bottom_navbar.png>
 Package pdftex.def Info: assets/Imagens/bottom_navbar.png  used on input line 9.
 (pdftex.def)             Requested size: 187.78532pt x 174.86127pt.
-<assets/Imagens/Hi_Fi_IleituraComprar.png, id=186, 233.37187pt x 503.63156pt>
+<assets/Imagens/Hi_Fi_IleituraComprar.png, id=206, 233.37187pt x 503.63156pt>
 File: assets/Imagens/Hi_Fi_IleituraComprar.png Graphic file (type png)
 <use assets/Imagens/Hi_Fi_IleituraComprar.png>
 Package pdftex.def Info: assets/Imagens/Hi_Fi_IleituraComprar.png  used on input line 26.
 (pdftex.def)             Requested size: 187.78532pt x 405.2727pt.
 
 
-[8 <./assets/Imagens/bottom_navbar.png>]
-<assets/Imagens/Hi_Fi_IcompraBilhete.png, id=192, 231.86626pt x 502.12593pt>
+[10 <./assets/Imagens/bottom_navbar.png>]
+<assets/Imagens/Hi_Fi_IcompraBilhete.png, id=213, 231.86626pt x 502.12593pt>
 File: assets/Imagens/Hi_Fi_IcompraBilhete.png Graphic file (type png)
 <use assets/Imagens/Hi_Fi_IcompraBilhete.png>
 Package pdftex.def Info: assets/Imagens/Hi_Fi_IcompraBilhete.png  used on input line 36.
 (pdftex.def)             Requested size: 140.84258pt x 305.00919pt.
-<assets/Imagens/Hi_Fi_IinformacaoPasse.png, id=193, 229.60782pt x 502.87875pt>
+<assets/Imagens/Hi_Fi_IinformacaoPasse.png, id=214, 229.60782pt x 502.87875pt>
 File: assets/Imagens/Hi_Fi_IinformacaoPasse.png Graphic file (type png)
 <use assets/Imagens/Hi_Fi_IinformacaoPasse.png>
 Package pdftex.def Info: assets/Imagens/Hi_Fi_IinformacaoPasse.png  used on input line 41.
 (pdftex.def)             Requested size: 140.84258pt x 308.48207pt.
 
 
-[9 <./assets/Imagens/Hi_Fi_IleituraComprar.png>])
+[11 <./assets/Imagens/Hi_Fi_IleituraComprar.png>])
 
-[10 <./assets/Imagens/Hi_Fi_IcompraBilhete.png> <./assets/Imagens/Hi_Fi_IinformacaoPasse.png>] (Conclusao.tex)
+[12 <./assets/Imagens/Hi_Fi_IcompraBilhete.png> <./assets/Imagens/Hi_Fi_IinformacaoPasse.png>] (Conclusao.tex)
 
-[11]
+[13]
 \tf@thm=\write10
 \openout10 = `main.thm'.
 
@@ -1440,11 +1437,8 @@ L3 programming layer <2025-05-26>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 43A6A48B38977EDCD72C9029B0BC8AAA;2721.
+(rerunfilecheck)             Checksum: D2BBFF6B24A1EE102E74E00E7FAD17A1;2883.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1455,17 +1449,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46969 strings out of 468224
- 984272 string characters out of 5430035
- 1890541 words of memory out of 5000000
- 74728 multiletter control sequences out of 15000+600000
+ 46988 strings out of 468224
+ 984553 string characters out of 5430035
+ 1893759 words of memory out of 5000000
+ 74740 multiletter control sequences out of 15000+600000
  642986 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,9n,115p,1251b,1733s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (14 pages, 653431 bytes).
+ 111i,10n,115p,1251b,1733s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (16 pages, 690743 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 718 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
