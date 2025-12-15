@@ -499,180 +499,29 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecti1095.tfm
 OUTPUT main.toc
 INPUT ./main.lof
 INPUT ./main.lof
 INPUT main.lof
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecti1095.tfm
 OUTPUT main.lof
 INPUT ./Introducao.tex
 INPUT ./Introducao.tex
 INPUT ./Introducao.tex
 INPUT ./Introducao.tex
 INPUT Introducao.tex
-<<<<<<< HEAD
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1095.tfm
-INPUT .\Metodologia_Avaliacao.tex
-INPUT .\Metodologia_Avaliacao.tex
-INPUT Metodologia_Avaliacao.tex
-INPUT .\Interfaces.tex
-INPUT .\Interfaces.tex
-INPUT .\Interfaces.tex
-INPUT .\Interfaces.tex
-INPUT Interfaces.tex
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Passes.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT .\assets\Imagens\Perfil.png
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1200.tfm
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\AdicionarComprar.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT .\assets\Imagens\TiposBilhetes.png
-INPUT C:\Users\migue\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\CompraBilheteUnico.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\InfosPasse.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\Wallet.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\EcraBloqueio.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\assets\Imagens\Notificacao.png
-INPUT .\Avaliacoes.tex
-INPUT .\Avaliacoes.tex
-=======
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1095.tfm
-INPUT ./Interfaces.tex
-INPUT ./Interfaces.tex
-INPUT ./Interfaces.tex
-INPUT ./Interfaces.tex
-INPUT Interfaces.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbx1200.tfm
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Passes.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT ./assets/Imagens/Perfil.png
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbi1200.tfm
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/AdicionarComprar.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT ./assets/Imagens/TiposBilhetes.png
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1000.tfm
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/CompraBilheteUnico.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/InfosPasse.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/Wallet.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/EcraBloqueio.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./assets/Imagens/Notificacao.png
-INPUT ./Avaliacoes.tex
-INPUT ./Avaliacoes.tex
->>>>>>> caa7ac85bcb2200ff1d939bac03c71528ce48eec
-INPUT Avaliacoes.tex
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
-INPUT ./assets/Imagens/Sessao_1.jpeg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbi1095.tfm
+INPUT ./Metodologia_Avaliacao.tex
+INPUT ./Metodologia_Avaliacao.tex
+INPUT Metodologia_Avaliacao.tex
+INPUT ./AnaliseResultados.tex
+INPUT ./AnaliseResultados.tex
+INPUT AnaliseResultados.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcbx1095.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT ./Prototipo_Hi_fi.tex
 INPUT ./Prototipo_Hi_fi.tex
 INPUT Prototipo_Hi_fi.tex
@@ -697,6 +546,7 @@ INPUT ./assets/Imagens/Hi_Fi_IcompraBilhete.png
 INPUT ./assets/Imagens/Hi_Fi_IcompraBilhete.png
 INPUT ./assets/Imagens/Hi_Fi_IcompraBilhete.png
 INPUT ./assets/Imagens/Hi_Fi_IcompraBilhete.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1000.tfm
 INPUT ./assets/Imagens/Hi_Fi_IinformacaoPasse.png
 INPUT ./assets/Imagens/Hi_Fi_IinformacaoPasse.png
 INPUT ./assets/Imagens/Hi_Fi_IinformacaoPasse.png
@@ -716,40 +566,14 @@ INPUT ./main.out
 INPUT ./main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
-<<<<<<< HEAD
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
-INPUT C:\Users\migue\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
-=======
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
-INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1200.pk
-INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1200.pk
+INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1095.pk
+INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1095.pk
+INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk
+INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1095.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk
@@ -768,4 +592,9 @@ INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fo
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk
 INPUT /Users/luisameloesampaio/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk
->>>>>>> caa7ac85bcb2200ff1d939bac03c71528ce48eec
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
